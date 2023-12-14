@@ -1,0 +1,12 @@
+server1 192.168.2.200
+server2 172.24.3.30
+client    10.0.1.100
+router1-eth1 10.0.1.1
+router1-eth2 10.0.2.1
+router1-eth3 10.0.3.1
+router2-eth1 10.0.2.2
+router2-eth2 192.168.2.2
+router2-eth3 192.168.3.1
+router3-eth1 10.0.3.2
+router3-eth2 172.24.3.2
+router3-eth3 192.168.3.2

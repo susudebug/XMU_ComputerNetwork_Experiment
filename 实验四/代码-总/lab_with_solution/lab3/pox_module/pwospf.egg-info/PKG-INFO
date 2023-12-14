@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: pwospf
+Version: 0.0.0
+Summary: Network controller for Stanford PWOSPF Assignment
+Home-page: http://cs344.stanford.edu
+Author: Te-Yuan Huang
+Author-email: huangty@stanford.edu
+License: GPL
+Description: Insert longer description here.
+              
+Keywords: stanford pwospf
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Programming Language :: Python
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Internet
